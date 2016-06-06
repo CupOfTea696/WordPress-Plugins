@@ -1,6 +1,7 @@
 {
     "name": "cupoftea/wordpress-plugins",
     "description": "MetaPackage to install some common WordPress plugins",
+    "license": "MIT",
     "type": "metapackage",
     "authors": [
         {
