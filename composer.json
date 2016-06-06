@@ -1,0 +1,20 @@
+{
+    "name": "cupoftea/wordpress-plugins",
+    "description": "MetaPackage to install some common WordPress plugins",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Sven Wittevrongel",
+            "email": "cupoftea696@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "wpackagist-plugin/admin-menu-tree-page-view": "^2.6",
+        "wpackagist-plugin/admin-menu-editor": "^1.6",
+        "wpackagist-plugin/advanced-custom-fields": "^4.4",
+        "wpackagist-plugin/rename-wp-login": "^2.5",
+        "wpackagist-plugin/tinymce-advanced": "^4.3",
+        "wpackagist-plugin/wordfence": "^6.1"
+    }
+}
